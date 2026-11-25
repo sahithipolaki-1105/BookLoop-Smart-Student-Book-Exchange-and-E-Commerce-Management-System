@@ -1,0 +1,14 @@
+**/target/
+**/maven/
+**/db.properties
+*.class
+*.jar
+.idea/
+*.iml
+
+Java Project/.m2/
+Java Project/bookloop/target/
+
+Java Project/db.properties
+
+Java Project/reset_mysql_password.bat
